@@ -15,7 +15,9 @@ The Keyboard uses a matrix grid so i need only a few gpio pins for the whole key
 
 ### 3D Design
 <img width="1246" height="367" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/e43c7580-b26f-4b8a-88a6-54985101769f" /><br>
-<img width="1271" height="388" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/10dd9fc8-cdd3-4b29-afed-8b2d7d05ad79" /><br>
+<img width="1114" height="334" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/b73ffd87-f6ce-48d3-91ed-7f72e48603fb" />
+<img width="1177" height="597" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/549056a2-5a68-42bd-b5fa-4ce102134303" />
+
 
 - ## Bill of Materials (BOM)
 
