@@ -21,17 +21,16 @@ The Keyboard uses a matrix grid so i need only a few gpio pins for the whole key
 
 - ## Bill of Materials (BOM)
 
-| Item | Quantity | Description | Unit Price (USD) | Link |
-|-----:|---------:|-------------|------------------:|------|
-| Cherry MX Switch (MX2A-HC1B) | 61 | Mechanical key switch | 1.95 | https://www.digikey.in/en/products/detail/cherry-americas-llc/MX2A-HC1B/21738427 |
-| 1N4148 Diode | 61 | Switching diode for key matrix | 0.041 | https://www.digikey.in/en/products/detail/onsemi/1N4148TR/458811 |
-| Raspberry Pi Pico (RP2040) | 1 | Main microcontroller board | 5.00 | https://www.digikey.in/en/products/detail/raspberry-pi/SC0917/16608257 |
-| Keycaps Set | 1 | Backlit mechanical keyboard keycaps | 38.68 | https://www.amazon.in/Keycaps-Backlit-Mechanical-Keyboard-Switches/dp/B08R5YPYCD |
-| PCB + Shipping (JLCPCB) | 1 | PCB fabrication and shipping | 29.51 | https://jlcpcb.com |
-| Stabalizers | 5 pair  | I have them | 0 | ---- |
-| M3 screws and heatset | 8  | I have them | 0 | ---- |
+| # | Item | Description | Quantity | Unit Price (USD) | Total (USD) | Link |
+|---|------|-------------|----------|------------------|-------------|------|
+| 1 | 80Retros x HMX Volume | Mechanical switches (pack of 35) | 2 packs | 17.8 | 35.6 | https://stackskb.com/store/hmx-volume-0-pack-of-35/ |
+| 2 | 1N4148 Diode | DO-35 switching diode | 61 | 0 | 0 | | Already have
+| 3 | Raspberry Pi Pico H | RP2040 microcontroller board | 1 | 5.5 | 5.5 | https://robu.in/product/raspberry-pi-pico-with-headers/ |
+| 4 |  Keycap Set | Full keycap set | 1 | 27.7 | 27.7 | https://stackskb.com/store/blue-and-blue-double-shot-abs-cherry-profile-keycaps-pre-order/ |
+| 5 | Screw-In Stabilizers V2 | Keyboard stabilizers | 1 | 0 |0 | Already have |
+| 6 | PCB + Shipping | PCB fabrication (JLCPCB) | 1 | 29.51 | 29.51 | https://jlcpcb.com |
 
-**Estimated Total Hardware Cost:** **USD 194.64**
+**Estimated Total Hardware Cost:** **USD 98.31**
 
 ## Hardware
 - Raspberry Pico 
