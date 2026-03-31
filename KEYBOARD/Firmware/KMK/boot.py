@@ -5,7 +5,6 @@ import usb_cdc
 import usb_hid
 import time
 
-
 # ---- SET YOUR ROW PINS HERE ----
 ROW_PINS = [
     board.GP2,
